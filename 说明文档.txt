@@ -1,0 +1,6 @@
+1.运行reptile_data爬取数据保存在AI_teach.xls中
+2.运行Select_Keys提取文献给出的关键词
+3.运行fenci提取摘要中的关键词
+4.运行ALL_keys将关键词整合
+5.将关键词进行分类
+6.运行julei将文献聚类并分类
